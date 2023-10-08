@@ -1,14 +1,14 @@
 # SVM-Iris-dataset-gridsearchCV
 ## Advantages of Support Vector Machine:
-1).SVM works relatively well when there is a clear margin of separation between classes.
-2).SVM is more effective in high dimensional spaces.
-3).SVM is effective in cases where the number of dimensions is greater than the number of samples.
-4).SVM is relatively memory efficient.
+### 1).SVM works relatively well when there is a clear margin of separation between classes.
+### 2).SVM is more effective in high dimensional spaces.
+### 3).SVM is effective in cases where the number of dimensions is greater than the number of samples.
+### 4).SVM is relatively memory efficient.
 ## Disadvantages of Support Vector Machine:
-1).SVM algorithm is not suitable for large data sets.
-2).SVM does not perform very well when the data set has more noise i.e. target classes are overlapping.
-3).In cases where the number of features for each data point exceeds the number of training data samples, the SVM will underperform.
-4).As the support vector classifier works by putting data points, above and below the classifying hyperplane there is no probabilistic explanation for the classification.
+### 1).SVM algorithm is not suitable for large data sets.
+### 2).SVM does not perform very well when the data set has more noise i.e. target classes are overlapping.
+### 3).In cases where the number of features for each data point exceeds the number of training data samples, the SVM will underperform.
+### 4).As the support vector classifier works by putting data points, above and below the classifying hyperplane there is no probabilistic explanation for the classification.
 
 ## Hyper parameter tuning in svm using gridsearchcv
 !https://miro.medium.com/max/1588/1*MHYG4D5Qixwpapha2aq4Pg.png
